@@ -24,6 +24,10 @@
       margin-top: 1.5rem !important;
       margin-right: 0.5rem !important;
     }
+
+    span {
+      margin-top: 1.5rem !important;
+    }
   }
 }
 </style>
